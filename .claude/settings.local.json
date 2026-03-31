@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/2G/Desktop/NEW_2G/2G_R config user.name)",
+      "Bash(git -C /c/Users/2G/Desktop/NEW_2G/2G_R config user.email)",
+      "Bash(git:*)"
+    ]
+  }
+}
